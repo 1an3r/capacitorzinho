@@ -1,0 +1,4 @@
+*.gz
+*.tat.gz
+./concord
+./curl-8.7.1/
